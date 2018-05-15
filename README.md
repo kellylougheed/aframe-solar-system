@@ -38,3 +38,4 @@ When a planet is clicked on, can you make it change texture or color?
 Could you add shooting starts in the background or an asteroid belt?
 
 Don't stop there, these ideas are meant to be open ended to get you started thinking about all you can do with code!
+# aframe-solar-system
